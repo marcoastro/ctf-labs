@@ -19,6 +19,7 @@ df.columns
 df["column_name"].describe
 df["column_name"].plot(kind="hist")
 
+SYBAU MAC USER
 
 
 
